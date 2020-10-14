@@ -61,13 +61,13 @@ We can use all other basic arithmetic operations:
 
 Let's try to draw three ellipses by using only variables and expressions within the ellipse parenthesis:
 
-See [example](CodeBook/666_solutions/002_ellipses.js).
+See [example](https://github.com/fleshgordo/LaboCreativeCoding/blob/main/Codebook/666_solutions/002_ellipses.js).
 
 By placing all variables in one place you can quickly gain an overview of different parameters used in your sketch. You will only have to look at a few lines of code.
 
 Now, let's adapt the code, so it becomes responsive dependent on the sketch size (use the width and height variables).
 
-See [solution](CodeBook/666_solutions/002_ellipses_responsive.js).
+See [solution](https://github.com/fleshgordo/LaboCreativeCoding/blob/main/Codebook/666_solutions/002_ellipses_responsive.js).
 
 Let's look with more detail to this section:
 

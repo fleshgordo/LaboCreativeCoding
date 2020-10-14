@@ -88,7 +88,7 @@ for (let i = 0; i <= 475; i += steps) {
 
 I am noticing that the lines are not drawn on the very bottom of the sketch. The evaluation of **i <= 475** is not correct. Can you fix it?
 
-See [solution](https://editor.p5js.org/ritzdank/sketches/onXrj5o3g).
+See [solution](https://editor.p5js.org/ritzdank/sketches/11I6yKKy7).
 
 The test statement is a relational expression. It compares two values (in our case i and the height of the sketch) with a relational operator. In our example we were using **i <= 500**. The operator is the less than equals (<=). The most common operators are:
 
@@ -127,9 +127,7 @@ let steps = 10;
     line(width - i, i, width, height);
   }
 ```
-Can you re-interpret this [line drawing](misc/sketch_011_linedrawing2.png). by using one (or more for loops) ?
-
-See [solution](solutions/sketch_012_linedrawingX.pde).
+Can you re-interpret this [line drawing](https://github.com/fleshgordo/LaboCreativeCoding/blob/main/Codebook/666_solutions/sketch_011_linedrawing2.png). by using one (or more for loops) ?
 
 ### Nested Loops
 
@@ -179,7 +177,7 @@ for (let x = 50; x < width; x += steps) {
 }
 ```
 
-See the entire [sketch here](https://editor.p5js.org/ritzdank/sketches/onXrj5o3g)
+See the entire [sketch here](https://editor.p5js.org/ritzdank/sketches/eZg_y9Gqm)
 
 Try to modify the step variable (for example 5). What can you observe? You'll need to adapt some parameters (circle dimension, offset, etc) to make it modular.
 

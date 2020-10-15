@@ -88,7 +88,7 @@ Looking back onto our first example where we checked left and right side of the 
 
 See [solution]([solutions/sketch_018_ElseIf.pde](https://editor.p5js.org/ritzdank/sketches/5iZpKeuOu))   
 
-Here's a [block diagramm]() explaining the different possibilities of an if/else if/else condition.
+Here's a [block diagramm](https://github.com/fleshgordo/LaboCreativeCoding/blob/main/Codebook/666_solutions/overview_ifelse.png) explaining the different possibilities of an if/else if/else condition.
 
 ### Typo and fonts
 

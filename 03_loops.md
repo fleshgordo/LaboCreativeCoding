@@ -53,12 +53,12 @@ for (let i = 0; i <= 475; i = i + 25) {
 }
 ```
 
-Sometimes it can be useful to use a **println()** statement inside the loop:
+Sometimes it can be useful to use a **print()** statement inside the loop:
 
 ```javascript
 for (let i = 0; i <= 475; i = i + 25) {
   line(0,i,width,height);
-  println(i);
+  print(i);
 }
 ```
 

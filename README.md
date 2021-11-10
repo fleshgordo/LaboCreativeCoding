@@ -1,6 +1,6 @@
 # LaboCreativeCoding
 
-Handbook for Labo Media Design Fall 2020/21
+Handbook
 
 ### Tutorials
 
